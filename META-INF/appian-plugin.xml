@@ -1,0 +1,9 @@
+ <appian-plugin name="Gemini AI Plugin" key="com.appian.plugins.gemini">
+  <plugin-info>
+   <description>Smart service used to convert Html File to Excel File</description>
+   <vendor name="Tech Tammina" url="http://www.techtammina.com" />
+   <version>1.0.0</version>
+   <application-version min="6.1" />
+  </plugin-info>
+  <smart-service name="Gemini AI Plugin" key="appian_plugins_gemini_en_US" class="com.appian.plugins.gemini.GeminiService"/> 
+ </appian-plugin>
